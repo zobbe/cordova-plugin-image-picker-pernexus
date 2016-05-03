@@ -2,7 +2,7 @@
 <plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
   xmlns:android="http://schemas.android.com/apk/res/android"
   id="cordova-plugin-image-picker-pernexus"
-  version="1.0.8">
+  version="1.0.0">
 
 	<name>ImagePicker-Pernexus</name>
 	 
