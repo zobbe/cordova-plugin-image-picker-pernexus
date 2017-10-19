@@ -9,10 +9,6 @@
       "android"
     ]
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/zobbe/cordova-image-picker-pernexus.git"
-  },
   "keywords": [
     "ecosystem:cordova",
     "cordova-ios",
