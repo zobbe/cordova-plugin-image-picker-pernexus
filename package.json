@@ -5,8 +5,7 @@
   "cordova": {
     "id": "cordova-plugin-image-picker-pernexus2",
     "platforms": [
-      "ios",
-      "android"
+      "ios"
     ]
   },
   "keywords": [
@@ -14,16 +13,6 @@
     "cordova-ios",
     "cordova-android"
   ],
-  "engines": [
-    {
-      "name": "cordova",
-      "version": ">=3.0.0"
-    }
-  ],
   "author": "zobbe",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/zobbe/cordova-image-picker-pernexus/issues"
-  },
-  "homepage": "https://github.com/zobbe/cordova-image-picker-pernexus#readme"
+  "license": "MIT"
 }
