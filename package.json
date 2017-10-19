@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-image-picker-pernexus2",
+  "name": "cordova-plugin-image-picker-pernexus",
   "version": "1.0.0",
   "description": "This plugin allows selection of multiple images from the camera roll / gallery in a phonegap app",
   "cordova": {
-    "id": "cordova-plugin-image-picker-pernexus2",
+    "id": "cordova-plugin-image-picker-pernexus",
     "platforms": [
       "ios"
     ]
